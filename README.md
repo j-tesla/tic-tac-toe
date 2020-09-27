@@ -1,7 +1,7 @@
 # Tic-Tac-Toe with AI
 
 -----
-
+User value input cordinations are cnfusing.
 ## Description
 
 A simple implementation of tic-tac-toe:
